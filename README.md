@@ -3,7 +3,7 @@
 
 **The Fastest and Easiest Way to Create Forms and Collect Submissions Online**
 
-Formify is a powerful tool that automates your HTML forms, handling all backend tasks for you. Say goodbye to complex server-side code—Formify manages everything seamlessly, allowing you to focus on creating forms and collecting data.
+Formify is a powerful tool that automates your HTML forms, handling all backend tasks for you. Say goodbye to complex server-side code. Formify manages everything seamlessly, allowing you to focus on creating forms and collecting data.
 
 ## Key Features
 
@@ -26,10 +26,10 @@ With Formify, managing forms and submissions is effortless, efficient, and hassl
 
 ## Built with
 
-* MongoDB Atlas
-* ExpressJS
-* ReactJS
-* NodeJS
+* React.js
+* Node.js
+* Express.js
+* MongoDB
 
 
 ## Some Screenshots
